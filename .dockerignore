@@ -1,0 +1,32 @@
+# Ambiente virtual
+venv/
+env/
+.venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Git
+.git/
+.gitignore
+
+# Banco de dados local (será gerado dentro do container)
+db.sqlite3
+
+# Arquivos de IDE/editor
+.vscode/
+.idea/
+*.swp
+
+# Arquivos de sistema
+.DS_Store
+
+# Documentação e arquivos auxiliares
+README.md
+*.md
+
+# Ambiente
+.env
