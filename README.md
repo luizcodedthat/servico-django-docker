@@ -56,3 +56,11 @@ servico-django-docker/
 ├── .gitignore
 └── README.md
 ```
+
+## 🗂️ Processo Ágil
+ 
+O desenvolvimento foi organizada em um quadro Kanban (GitHub Projects) com as colunas **To Do**, **Doing** e **Done**.
+ 
+**Print do quadro Kanban:**
+ 
+![Quadro Kanban](docs/assets/screenshots/kanban.png)
